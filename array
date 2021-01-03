@@ -1,0 +1,11 @@
+public class main {
+public static void main(string args[]){
+char[] kid ={
+'s',
+'a',
+'k',
+'s',
+'h',
+'i',
+};
+string kids = new
