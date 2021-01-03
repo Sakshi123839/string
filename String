@@ -1,0 +1,13 @@
+11 lines (10 sloc)  231 Bytes
+  
+10 lines (10 sloc)  200 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s1 = "hello";
+string s2 = "hello";
+string s3 = "hello";
+system out.println(s1);
+system.out.println(s2);
+system.out.println(s3);
+}
