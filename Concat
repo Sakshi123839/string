@@ -1,0 +1,9 @@
+lines (7 sloc)  149 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s1 = "hii , I'm ";
+string s2 = "shruti";
+system.out.println(s1.concat(s2));
+}
+}
