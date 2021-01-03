@@ -1,0 +1,22 @@
+8 lines (8 sloc)  205 Bytes
+  10 lines (9 sloc)  250 Bytes
+  
+8 lines (8 sloc)  219 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s = "thisisthehugesakshistring";
+system.out.println(s.endwith"huge"));
+system.out.println(s.endwith("ring"));
+system.out.println(s.endwith("g"));
+}
+}
+public class main {
+public static void main (string[] args){
+string s ="";
+system.out.println(s.contains("sa"));
+system.out.println(s.contains("k"));
+system.out.println(s.contains("shi"));
+}
+}
+© 2021 GitHub, Inc.
