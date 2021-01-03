@@ -1,0 +1,7 @@
+6 lines (6 sloc)  175 Bytes
+  
+public class main {
+public static void main (string[] args){
+string s = "thisistheoneofthebigggggggeststringyouwilleverknowandiamshruti";
+system.out.println(s.length());
+}
